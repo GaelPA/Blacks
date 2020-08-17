@@ -1,0 +1,44 @@
+/* Some initial styling */
+
+* {
+	box-sizing: border-box;
+}
+
+#logo {
+  margin-top: 15%;
+}
+
+body {
+	background:url("imagen/paisaje2.jpg") no-repeat center top;
+	background-color: black;
+}
+
+#submit {
+	margin-top: 5px;
+	background color: transparent;
+	border-radius: 20px;
+	box-sizing: border-box;
+	width: 500px;
+	padding: 6px 10px;
+	font-size: 30px;
+	border: 2px white;
+	}
+#buscar {
+	background-color: #FF3D64;
+	border: none;
+	padding: 6px 10px;
+	border-radius: 20px;
+	font-size: 25px;
+	height: 46px;
+	color: white;
+	cursor: pointer;
+	font-family: verdana;
+	transition: background 0.3s ease-in-out;
+}
+#buscar:hover{
+	background: #ec7063;
+}
+ 
+#contenedor {
+	margin: auto;
+}

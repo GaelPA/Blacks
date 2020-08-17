@@ -1,0 +1,41 @@
+* {
+	box-sizing: border-box;
+}
+
+body{
+	background:url("fondo.jpg") no-repeat center top;
+	background-color: white;
+}
+#palabra{
+	color: white;
+	font-size: 40px;
+}
+
+#texto {
+	margin-top: 40px;
+	background color: transparent;
+	border-radius: 20px;
+	box-sizing: border-box;
+	width: 300px;
+	padding: 3px 5px;
+	font-size: 30px;
+	border: 2px white;
+}
+
+#numero {
+	background-color: white;
+	margin-top: 10px;
+	width: 70px;
+	border: none;
+	padding: 6px 10px;
+	border-radius: 50px;
+	font-size: 25px;
+	height: 46px;
+	color: black;
+	cursor: pointer;
+	font-family: verdana;
+	transition:background .25s. color .25s;
+	-webkit-transition:background .25s, color .25s;
+	-moz-transition:background .25s, color .25s;
+	-o-transition:background .25s, color .25s;
+}

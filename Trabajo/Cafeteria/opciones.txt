@@ -1,0 +1,76 @@
+style="background:#CA832D;color:white;"
+
+#D0DAD4
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9iaOXpkWRdI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+                
+<div class="content-item2">
+                    
+<label class="icon-laptop"></label>
+                    
+<h4>Monitoreo</h4>
+                    
+<p>Todo lo que se de aqui en la cafeteria pdras escoer todo lo que se tiene en su totalidad y podras revisar actualizaciones que mejorara tu establecimiento y que disfrutes a tu gusto.</p>
+                    
+                
+</div>
+                
+<div class="content-item2">
+                    
+<label class="icon-support"></label>
+                    
+<h4>Soporte</h4>
+                    
+<p>Cualquier cosa que de como mal uso de los ingredientes o quejas sobre el producto podras comentar en nuestras redes sociales que se tiene al final de la pagina.</p>
+
+<p></p>
+
+<div class="content-three">
+            
+<div class="content-module">
+                
+<h2>Todo el servico desde tu celular</h2>
+                
+<img src="images/Imagen11.png">
+                
+<img src="images/Imagen12.png">
+                
+<img src="images/Imagen13.png">
+
+<h3>(toda imagen es sacada del internet)</h3>            
+</div>
+        
+</div>
+        
+<div class="content-for">
+            
+<div class="content-item3">
+                
+<h4>La Preparatoria</h4>
+                
+<p>La preparatoria lo cual es la cecytem tiene todas sus instalaciones bien limpias y concordes de lo que estan en los estudios dados para que estas puedan ser utilizadas en su totalidad.</p>
+                
+<img src="images/TULTITLAN 1.png">
+            
+</div>
+            
+<div class="content-five">
+                
+<div class="content-item4">
+                    
+<h4>Visista nustras redes sociales</h4>
+                    
+<p>Visita nuestras redes sociales para que estes al tanto de lo que se documenta y los avisos que se quieran dar en su totalidad y podras comentar en la pagina del plantel para que te de mas de lo que quieras que ahiga dentro de la cafeteria.</p>
+
+<p>Erick leonardo Garcia Leon-------404--------Matutino--------proyecto escolar------------14/04/2019</p>
+                
+</div>
+            
+</div>
+        
+</div>
+    
+
+
